@@ -1,4 +1,4 @@
-# Luke Garratt
+# Luke Garratt's Website
 
 Graduation Year: 2029
 
